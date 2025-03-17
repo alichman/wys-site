@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wys-site/static/css/main.cec7cdfc.css",
+    "main.js": "/wys-site/static/js/main.3c750d34.js",
+    "static/js/453.c451b439.chunk.js": "/wys-site/static/js/453.c451b439.chunk.js",
+    "static/media/DSC09360.png": "/wys-site/static/media/DSC09360.655821d4b24fc72aba10.png",
+    "static/media/wys image 2.png": "/wys-site/static/media/wys image 2.f3eef30ad07c0e5d71aa.png",
+    "index.html": "/wys-site/index.html",
+    "main.cec7cdfc.css.map": "/wys-site/static/css/main.cec7cdfc.css.map",
+    "main.3c750d34.js.map": "/wys-site/static/js/main.3c750d34.js.map",
+    "453.c451b439.chunk.js.map": "/wys-site/static/js/453.c451b439.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cec7cdfc.css",
+    "static/js/main.3c750d34.js"
+  ]
+}
