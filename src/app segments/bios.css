@@ -1,0 +1,52 @@
+.bio-main {
+    height: auto;
+    width: 100vw;
+    overflow: hidden;
+    position: relative;
+
+    h1 {
+        color: white;
+        font-size: 100px;
+    }
+}
+
+.bio-row {
+    height: 40%;
+    outline-width: 2px;
+    outline-color: white;
+    outline-style: auto;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+
+.bio-single {
+    outline-width: 2px;
+    outline-color: gray;
+    background-color: darkblue;
+    outline-style: auto;
+    height: 100%;
+    width: 25%;
+    position: relative;
+
+    img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .text-square {
+        position: absolute;
+        bottom: 0;
+        background-color:rgba(0, 0, 0, 0.3);
+        width: 100%;
+        z-index: 1;
+
+        
+        h2, p {
+            color: white;
+        }
+        p {
+            margin-bottom: 50px;
+        }
+    }
+}
